@@ -1,5 +1,5 @@
 # kgipan.github.io
-<h1> How to Create a Website in GitHub</h1>
+<h1>How to Create a Website in GitHub</h1>
 Interested in learning how to create a website in Github? Follow these simple instructions and you will have one in no time! In the example we will use below, we will have a simple webpage with a photo of yourself and your name at the top.<br> 
 1. To start, you will want to create an account on http://github.com<br>
 <img src="https://user-images.githubusercontent.com/89999452/132095372-bdb8da69-0394-4006-8d39-a00feef8709c.png"/><br>
