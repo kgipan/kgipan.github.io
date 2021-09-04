@@ -20,7 +20,9 @@ Your finder will pop up, choose a folder in which you would like to work from. I
 9. In Finder, locate a photo of yourself and drag the file into the left margin of the Visual Studio Code in the same directory as your newly created index.html file. <img src="https://user-images.githubusercontent.com/89999452/132097588-850b825d-ea52-4ca9-abcb-06fc651fa88d.png"/><br>
 10. Click on your "index.html" file. And type in the following code: <img src="https://user-images.githubusercontent.com/89999452/132097809-dbbc143b-df95-495d-80cb-bfc3ad7c389f.png"/> Instead of "Your Name" you will want to type your own name.<br>
 11. Now go back to your GitHub page where you should have a drag and drop pulled up. <img src="https://user-images.githubusercontent.com/89999452/132096198-2bf6550e-886a-451e-a067-961f03b81d5b.png"/><br>
-12. Refer back to step 7 and recall the folder in which you chose to use in Visual Studio Code. In the example, my folder was "GitHub". Now open your Finder and locate the folder in which you used, and drag and drop those files (the index.html and the image file) into GitHub.
+12. Refer back to step 7 and recall the folder in which you chose to use in Visual Studio Code. In the example, my folder was "GitHub". Now open your Finder and locate the folder in which you used, and drag and drop those files (the index.html and the image file) into GitHub.<img src="https://user-images.githubusercontent.com/89999452/132098177-ebb84ffe-bf73-46ca-8828-776709624b62.png"/><br>
+ <h2>You're Almost There!</h2><br>
+ 13. Now you need to commit your changes! Just scroll down and click the green button "Commit changes" <img src="https://user-images.githubusercontent.com/89999452/132098265-4aa31890-7221-4f3d-8d74-ef47fa8e4936.png"/><br>
           
 
 
