@@ -16,7 +16,9 @@ Click the green button on the bottom "Create repository"<br>
 <img src="https://user-images.githubusercontent.com/89999452/132096628-e181eabf-76fe-4fbc-be46-4256542b0470.png"/><br>
 Your finder will pop up, choose a folder in which you would like to work from. If you do not have one, open a new Finder Window and create a folder. In the example below, the folder I used is "GitHub", but feel free to name your folder anything you would like!<br>
 8. Now that you have your folder "GitHub" on Visual Studio Code, you will want to click "New File" next to your folder name. The icon appears next to your folder name and looks like a page with a "+" on the bottom right. Then name the file you just created "index.html"<br>
-<img src="https://user-images.githubusercontent.com/89999452/132097112-0bc053a1-3858-409f-9835-4e7d9cea76a1.png/><br>
+<img src="https://user-images.githubusercontent.com/89999452/132097112-0bc053a1-3858-409f-9835-4e7d9cea76a1.png"/><br>
+9. In Finder, locate a photo of yourself and drag the file into the left margin of the Visual Studio Code in the same directory as your newly created index.html file. <img src="https://user-images.githubusercontent.com/89999452/132097588-850b825d-ea52-4ca9-abcb-06fc651fa88d.png"/><br>
+10. 
           
 
 
