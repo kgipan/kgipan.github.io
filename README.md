@@ -8,7 +8,11 @@ Interested in learning how to create a website in Github? Follow these simple in
 3. Click the green button on the right side "New"<br>
 <img src="https://user-images.githubusercontent.com/89999452/132095996-afdb42ac-6ad0-408c-878b-fb9d88afa6d5.png"/><br>
 4. In the text box provided, type the name you would like for the respository. In this example, we will use your GitHub username.github.io. Mine is kgipan.github.io<br>
-Click the green button on the bottom "Create repository"
+Click the green button on the bottom "Create repository"<br>
 5. Click on "Upload existing file".<br> 
 6. Now open your editor. We will use Visual Studio Code. When you open the VS Code, choose "New File"<br>
 <img src="https://user-images.githubusercontent.com/89999452/132096414-d49be3df-a6d7-4dfc-88b5-c32005c89144.png"/><br>
+7. Now you will want to click on the top right on "Explorer" which looks like two pages ontop of eachother and then click "New Folder"<br>
+<img src="https://user-images.githubusercontent.com/89999452/132096628-e181eabf-76fe-4fbc-be46-4256542b0470.png"/><br>
+
+
