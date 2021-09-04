@@ -12,7 +12,12 @@ Click the green button on the bottom "Create repository"<br>
 5. Click on "Upload existing file".<br> 
 6. Now open your editor. We will use Visual Studio Code. When you open the VS Code, choose "New File"<br>
 <img src="https://user-images.githubusercontent.com/89999452/132096414-d49be3df-a6d7-4dfc-88b5-c32005c89144.png"/><br>
-7. Now you will want to click on the top right on "Explorer" which looks like two pages ontop of eachother and then click "New Folder"<br>
+7. Now you will want to click on the top right on "Explorer" which looks like two pages ontop of eachother and then click "Open Folder"<br>
 <img src="https://user-images.githubusercontent.com/89999452/132096628-e181eabf-76fe-4fbc-be46-4256542b0470.png"/><br>
+Your finder will pop up, choose a folder in which you would like to work from. If you do not have one, open a new Finder Window and create a folder. In the example below, the folder I used is "GitHub", but feel free to name your folder anything you would like!<br>
+8. Now that you have your folder "GitHub" on Visual Studio Code, you will want to click "New File" next to your folder name. The icon appears next to your folder name and looks like a page with a "+" on the bottom right. Then name the file you just created "index.html"<br>
+<img src="https://user-images.githubusercontent.com/89999452/132097112-0bc053a1-3858-409f-9835-4e7d9cea76a1.png/><br>
+          
+
 
 
