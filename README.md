@@ -23,6 +23,9 @@ Your finder will pop up, choose a folder in which you would like to work from. I
 12. Refer back to step 7 and recall the folder in which you chose to use in Visual Studio Code. In the example, my folder was "GitHub". Now open your Finder and locate the folder in which you used, and drag and drop those files (the index.html and the image file) into GitHub.<img src="https://user-images.githubusercontent.com/89999452/132098177-ebb84ffe-bf73-46ca-8828-776709624b62.png"/><br>
  <h2>You're Almost There!</h2><br>
  13. Now you need to commit your changes! Just scroll down and click the green button "Commit changes" <img src="https://user-images.githubusercontent.com/89999452/132098265-4aa31890-7221-4f3d-8d74-ef47fa8e4936.png"/><br>
+ 14. Now refer back to step 4 in which you named your repository. You will want to open a new browser and type in your repository name to test it and make sure you wrote the code correctly. In my example, I would type https://kgipan.github.io/ <br>
+You should have a photo of yourself with the header of Your Name Webpage!<br>
+<h1>Well Done!!</h1>
           
 
 
