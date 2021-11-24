@@ -6,6 +6,12 @@ body {
     background-color:azure;
 }
 
+#name {
+    color:#4ca44f;
+    font-weight: 900;
+    font-size: 2em;
+}
+
 .content {
     display: grid;
     grid-template-columns: 600px;
