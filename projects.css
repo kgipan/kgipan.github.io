@@ -1,0 +1,88 @@
+body {
+    font-family:'oswald', sans-serif;
+    padding-left: 50px;
+    background-color: azure;
+}
+
+.on {
+    font-weight: bold;
+    font-size: 2em;
+}
+h1{
+    color: black;
+}
+p{
+    color: black;
+}
+.content {
+    position:absolute;
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    grid-template-rows: 3fr;
+    text-align: center;
+    padding: 20px;
+    grid-gap: 10px;
+}
+
+.card-text {
+    color:black
+}
+
+.card-title {
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.pacman {
+    grid-column: 1/2;
+    grid-row: 1/2;
+    border-style: inset;
+    border-width: medium;
+    border-color: #1A3422;
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: rgb(81, 192, 203);
+
+}
+
+.eyes{
+    grid-column: 2/3;
+    grid-row: 1/2;
+    border-style: inset;
+    border-width: medium;
+    border-color: #1A3422;
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: rgb(81, 192, 203);
+}
+
+.bus {
+    grid-column: 3/4;
+    grid-row: 1/2;
+    border-style: inset;
+    border-width: medium;
+    border-color: #1A3422;
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: rgb(81, 192, 203);
+}
+.btn-primary {
+    background-color: #4FBDCA;
+    border-color: #1F4C22;
+    border-width:thick;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+  }
+
+a:link {
+    color:#1A3422;
+}
+
+a:hover {
+    border-bottom: 1px solid;
+    background: #CDFEAA;
+}
