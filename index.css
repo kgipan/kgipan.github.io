@@ -16,14 +16,13 @@ body {
     display: grid;
     grid-template-columns: 600px;
 }
-
+div.Bio {
+    padding-top: 50px;
+}
 .Bio {
     grid-column: 1/2;
     grid-row: 1/2;
-    border: dashed;
-    border-width: 2px 4px;
-    border-radius: 40px;
-    text-align: center;
+    text-align: left;
     padding-left: 10px;
     padding-right: 10px;
     padding-bottom: 20px;
@@ -32,6 +31,7 @@ body {
 .biopic {
     padding-bottom: 20px;
     padding-top: 10px;
+    
 }
 
 .video {
@@ -63,8 +63,8 @@ table {
     width: 200px;
 }
 
-.contactheading {
-    padding: 10px;
+div.contactheading {
+    padding-top: 50px
 }
 
 a {
