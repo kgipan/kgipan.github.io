@@ -68,6 +68,17 @@ p{
 }
 
 .bus {
+    grid-column: 1/2;
+    grid-row: 2/3;
+    border-style: inset;
+    border-width: medium;
+    border-color: #1A3422;
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: rgb(81, 192, 203);
+}
+
+.tictactoe {
     grid-column: 2/3;
     grid-row: 2/3;
     border-style: inset;
@@ -77,6 +88,18 @@ p{
     padding-bottom: 20px;
     background-color: rgb(81, 192, 203);
 }
+
+.badbank {
+    grid-column: 3/4;
+    grid-row: 2/3;
+    border-style: inset;
+    border-width: medium;
+    border-color: #1A3422;
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: rgb(81, 192, 203);
+}
+
 .btn-primary {
     background-color: #4FBDCA;
     border-color: #1F4C22;
