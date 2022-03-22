@@ -29,11 +29,9 @@ div.Bio {
     padding-bottom: 20px;
 }
 
-.biopic {
+.rounded-circle {
     padding-bottom: 20px;
-    padding-top: 10px;
-    border-radius: 50%;
-    
+    padding-top: 10px;    
 }
 
 .video {
