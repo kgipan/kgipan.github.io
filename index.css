@@ -3,7 +3,8 @@ body {
     font-family: 'oswald', sans-serif;
     padding-left: 50px;
     padding-right: 50px;
-    background-color:azure;
+    background-color:black;
+    color: white;
 }
 
 #name {
@@ -76,7 +77,7 @@ a {
   }
 
 a:link {
-    color:black;
+    color:yellowgreen;
 }
 
 a:hover {
